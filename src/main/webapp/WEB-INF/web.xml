@@ -13,6 +13,14 @@
     </context-param>
     <context-param>
         <param-name>root</param-name>
-        <param-value>1234</param-value>
+        <param-value>Mahee@10985</param-value>
+    </context-param>
+    <context-param>
+        <param-name>db-username</param-name>
+        <param-value>root</param-value>
+    </context-param>
+    <context-param>
+        <param-name>db-password</param-name>
+        <param-value>Mahee@10985</param-value>
     </context-param>
 </web-app>
